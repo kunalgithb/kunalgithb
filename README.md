@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Kunal or @kunalgithb
-- 👀 I’m interested in ReactJS
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Kunal, Lead Software Developer with 8+ years of professional experience.
+
 
 <!---
 kunalgithb/kunalgithb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
